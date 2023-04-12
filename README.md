@@ -2,12 +2,12 @@
 
 <br><br>
 ![Python](https://img.shields.io/badge/-Python-9cf?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![R](https://img.shields.io/badge/-R-000?&logo=R)
-![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas)
-![Numpy](https://img.shields.io/badge/-Numpy-000?&logo=Numpy)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Github](https://img.shields.io/badge/-Github-000?&logo=Github)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?&logo=Visual%20Studio%20Code)
-![Jupyter](https://img.shields.io/badge/-Jupyter-000?&logo=Jupyter)
+![JavaScript](https://img.shields.io/badge/-JavaScript-9cf?&logo=JavaScript)
+![R](https://img.shields.io/badge/-R-9cf?&logo=R)
+![Pandas](https://img.shields.io/badge/-Pandas-9cf?&logo=Pandas)
+![Numpy](https://img.shields.io/badge/-Numpy-9cf?&logo=Numpy)
+![SQL](https://img.shields.io/badge/-SQL-9cf?&logo=MySQL)
+![Github](https://img.shields.io/badge/-Github-9cf?&logo=Github)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-9cf?&logo=Visual%20Studio%20Code)
+![Jupyter](https://img.shields.io/badge/-Jupyter-9cf?&logo=Jupyter)
 <br><br>

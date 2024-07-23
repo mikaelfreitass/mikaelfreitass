@@ -11,3 +11,10 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-9cf?&logo=Visual%20Studio%20Code)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-9cf?&logo=Jupyter)
 <br><br>
+
+<a href="https://github.com/mikaelfreitass" title="Perfil do Mikael">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mikaelfreitass&theme=dark&show_icons=true" />
+</a>
+<a href="https://github.com/mikaelfreitass" title="Perfil do Mikael">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikaelfreitass&layout=compact&theme=dark" />
+</a>
